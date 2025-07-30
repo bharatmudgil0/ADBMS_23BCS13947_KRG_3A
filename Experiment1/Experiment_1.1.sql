@@ -23,7 +23,7 @@ INSERT INTO Book (BookID, Title, AuthorID) VALUES
 (101, '1984', 1),
 (102, 'Animal Farm', 1),
 (103, 'Shaktiman', 2),
-(104, 'Adventures of Huckleberry Finn', 3);
+(104, 'Adventures of Huckleberry Finn', 3),
 (105, 'Atomic Habits', 4);
 
 SELECT 
